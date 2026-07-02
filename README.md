@@ -21,6 +21,15 @@
 
 ---
 
+## Screenshots
+
+![screen](docs/screenshots/Screenshot_1.png)
+![screen](docs/screenshots/Screenshot_2.png)
+![screen](docs/screenshots/Screenshot_3.png)
+![screen](docs/screenshots/Screenshot_4.png)
+
+---
+
 ## 📦 What's Included
 
 | Component | Description |
